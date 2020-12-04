@@ -1,5 +1,17 @@
 {
-  "private": true,
+  "name": "rails_erb_practice03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JUNKI555/rails_erb_practice03.git",
+  "author": "JUNKI555 <junki555@gmail.com>",
+  "license": "WTFPL License",
   "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.14",
+    "postcss-cli": "^8.3.0",
+    "postcss-import": "^13.0.0",
+    "postcss-nested": "^5.0.2",
+    "tailwindcss": "^2.0.1",
+    "typescript": "^4.1.2"
   }
 }
