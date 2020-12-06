@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## memo
+```
+yarn init -y
+yarn add tailwindcss autoprefixer --dev
+yarn run tailwindcss init -p
+yarn add postcss postcss-cli postcss-import postcss-nested --dev
+yarn add typescript --dev
+yarn run tsc --init
